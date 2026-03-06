@@ -1,0 +1,65 @@
+.card-title {
+  font-size: 1rem;
+  font-weight: bold;
+  min-height: 50px; 
+}
+
+.card-img-top {
+  height: 200px;          
+  object-fit: contain;    
+  display: block;         
+  margin: 20px auto;      
+  padding: 10px;
+}
+
+.card-text{
+    font-size: 1.2rem;
+}
+
+body {
+  background-color: #f8f9fa; /* gris claro */
+}
+
+h2 {
+  font-weight: bold;
+  text-align: center; 
+}
+
+.modal-body .card-img-top{
+    height: 300px;
+}
+
+.modal-content {
+  background-color: #f8f9fa; 
+  border-radius: 10px;       
+}
+
+.card {
+  position: relative; 
+}
+
+.img-ofertas {
+  height: 250px; 
+}
+
+.badge-oferta {
+  position: absolute;
+  top: 10px;       /* distancia desde arriba */
+  left: 10px;     /* distancia desde la derecha */
+  font-size: 0.9rem;
+}
+
+.carousel .row {
+  margin-left: 0;
+  margin-right: 0;
+}
+.carousel .col-md-6 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(1);
+}
+
