@@ -1,2 +1,9 @@
 # 🩰 Product Catalog
 This responsive webpage was part of a school assignment. The main purpose of this project was to build a responsive site using an API, as well as to become comfortable and familiar with basic concepts for managing HTTP requests using JavaScript. This online store was built with Bootstrap components and the Fake Store API, and it only focuses on the product catalog that every online store must have :)
+##📦 Technologies
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- Fake Store API
+  
